@@ -22,6 +22,6 @@
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 70%;
+  --watermark-filter-brightness: 50%;
   --watermark-filter-contrast: 200%;
 }
