@@ -15,10 +15,9 @@
 
 :root {
   --darkplus-bg: #000000;
-  --darkplus-bg2: #212121;
-  --darkplus-sec: #302f2f;
-  --darkplus-links: #cdaef3;
-  --darkplus-home-icon: url(https://devevil.com/betterdiscord/dark%2b-logo.png);
+  --darkplus-bg2: #000000;
+  --darkplus-sec: #000000;
+  --darkplus-links: #000000;
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
