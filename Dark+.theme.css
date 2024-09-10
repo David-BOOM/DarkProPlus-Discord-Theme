@@ -15,9 +15,9 @@
 
 :root {
   --darkplus-bg: #000000;
-  --darkplus-bg2: #000000;
-  --darkplus-sec: #000000;
-  --darkplus-links: #000000;
+  --darkplus-bg2: #101010;
+  --darkplus-sec: #212121;
+  --darkplus-links: #303030;
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
